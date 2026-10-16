@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # assignment_2_k230779_hammad
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# TV_Explorer_Hammad22z
+A TV / Movie list fetcher with reviews and episodes
+>>>>>>> 67a2a4f314b41dd65d26330fec0e53502994f857
